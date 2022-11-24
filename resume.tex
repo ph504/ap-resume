@@ -1,0 +1,88 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[11pt, a4paper]{awesome-cv}
+%%% Override a directory location for fonts(default: 'fonts/')
+\usepackage[utf8]{inputenc} 
+\usepackage[francais]{babel}
+\usepackage{fontspec}
+\usepackage{hyperref}
+\fontdir[fonts/]
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+
+\definecolor{awesome}{rgb}{0.07, .447, .447}
+
+%\definecolor{awesome}{HTML}{CA63A8}
+%% Colors for text
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%%\headersocialsep[\quad\textbar\quad]
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     3rd party packages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Needed to divide into several files
+%\vspace*{0.2cm}
+\usepackage{import}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Personal Data
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Essentials
+\name{\hspace{-1 mm}Arya}{Parvizi}
+\address{Updated on \today \\ Born on 7 august 1998 in Shiraz, $\qquad$ gender: male, $\qquad$ marital status: single}
+\mobile{+98 937 809 1069} 
+%%% Social
+\homepage {ph504.github.io}
+\email{aryaparvizi98@gmail.com}
+\linkedin{arya-parvizi}
+\github{ph504}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Content
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+\begin{document}
+
+%%% Make a header for CV with personal data
+\makecvheader
+\hspace{14.17 cm}
+%\smash{\fbox{\includegraphics[width=2.5cm]{me}}}
+
+
+%%% Import contents
+\import{\sectiondir}{Education.tex}
+\vspace{0.7 cm}
+% \import{\sectiondir}{Experience.tex}
+% \vspace{0.7 cm}
+\import{\sectiondir}{TA.tex}
+\vspace{0.7 cm}
+\import{\sectiondir}{Skills.tex}
+\vspace{0.7 cm}
+\import{\sectiondir}{Interest.tex}
+\vspace{0.7 cm}
+\import{\sectiondir}{Languages.tex}
+\vspace{0.7 cm}
+% \import{\sectiondir}{Voluntary.tex}
+% \vspace{0.7 cm}
+\import{\sectiondir}{Awards.tex}
+\vspace{0.7 cm}
+\import{\sectiondir}{Project.tex}
+\vspace{0.7 cm}
+\import{\sectiondir}{References.tex}
+
+
+\end{document}
+
+%%/end{document}

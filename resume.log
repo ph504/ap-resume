@@ -1,0 +1,1344 @@
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.10.17)  12 NOV 2022 22:37
+ restricted system commands enabled.
+**resume.tex
+(./resume.tex
+LaTeX2e <2018-12-01>
+Lua module: luaotfload-main 2019-02-14 2.96 luaotfload entry point
+Lua module: luaotfload-init 2019-02-14 2.96 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2019-02-14 2.64 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2019-02-14 2.64 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2019-02-14 2.96 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2019-02-14 2.96 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2019-02-14 2.96 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is D:/apps/TexLive2020/texlive/2019/tex
+mf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2019-02-14.lua” from kpse
+-resolved path “d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/luatex/luaotfl
+oad/fontloader-2019-02-14.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.107”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2019-02-14 2.96 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2019-02-14 2.96 luaotfload submodule / database
+Lua module: luaotfload-colors 2019-02-14 2.96 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 4
+Lua module: luaotfload-resolvers 2019-02-14 2.96 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is D:/apps/TexLive2020/texlive/2019/tex
+mf-var/luatex-cache/generic/names.
+Lua module: luaotfload-features 2019-02-14 2.96 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2019-02-14 2.96 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2019-02-14 2.96 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.509 seconds
+(./awesome-cv.cls
+Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from D:/apps/TexLive2020/texlive/20
+19/texmf-var/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen103
+\ar@mcellbox=\box27
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\enitkv@toks@=\toks15
+\labelindent=\skip45
+\enit@outerparindent=\dimen105
+\enit@toks=\toks16
+\enit@inbox=\box29
+\enit@count@id=\count88
+\enitdp@description=\count89
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip46
+\RaggedLeftLeftskip=\skip47
+\RaggedRightLeftskip=\skip48
+\CenteringRightskip=\skip49
+\RaggedLeftRightskip=\skip50
+\RaggedRightRightskip=\skip51
+\CenteringParfillskip=\skip52
+\RaggedLeftParfillskip=\skip53
+\RaggedRightParfillskip=\skip54
+\JustifyingParfillskip=\skip55
+\CenteringParindent=\skip56
+\RaggedLeftParindent=\skip57
+\RaggedRightParindent=\skip58
+\JustifyingParindent=\skip59
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count93
+\calc@Bcount=\count94
+\calc@Adimen=\dimen114
+\calc@Bdimen=\dimen115
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count95
+\calc@Cskip=\skip71
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count96
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-mat
+h.sty (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-04-06 L3 programming layer (loader) 
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-04-06 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count97
+\l_tmpa_int=\count98
+\l_tmpb_int=\count99
+\g_tmpa_int=\count100
+\g_tmpb_int=\count101
+\g__kernel_prg_map_int=\count102
+\c__ior_term_ior=\count103
+\c_log_iow=\count104
+\l_iow_line_count_int=\count105
+\l__iow_line_target_int=\count106
+\l__iow_one_indent_int=\count107
+\l__iow_indent_int=\count108
+\c_zero_dim=\dimen116
+\c_max_dim=\dimen117
+\l_tmpa_dim=\dimen118
+\l_tmpb_dim=\dimen119
+\g_tmpa_dim=\dimen120
+\g_tmpb_dim=\dimen121
+\c_zero_skip=\skip72
+\c_max_skip=\skip73
+\l_tmpa_skip=\skip74
+\l_tmpb_skip=\skip75
+\g_tmpa_skip=\skip76
+\g_tmpb_skip=\skip77
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count109
+\l__intarray_loop_int=\count110
+\c__intarray_sp_dim=\dimen122
+\g__intarray_font_int=\count111
+\c__fp_leading_shift_int=\count112
+\c__fp_middle_shift_int=\count113
+\c__fp_trailing_shift_int=\count114
+\c__fp_big_leading_shift_int=\count115
+\c__fp_big_middle_shift_int=\count116
+\c__fp_big_trailing_shift_int=\count117
+\c__fp_Bigg_leading_shift_int=\count118
+\c__fp_Bigg_middle_shift_int=\count119
+\c__fp_Bigg_trailing_shift_int=\count120
+\g__fp_array_int=\count121
+\l__fp_array_loop_int=\count122
+\l__sort_length_int=\count123
+\l__sort_min_int=\count124
+\l__sort_top_int=\count125
+\l__sort_max_int=\count126
+\l__sort_true_max_int=\count127
+\l__sort_block_int=\count128
+\l__sort_begin_int=\count129
+\l__sort_end_int=\count130
+\l__sort_A_int=\count131
+\l__sort_B_int=\count132
+\l__sort_C_int=\count133
+\l__tl_analysis_normal_int=\count134
+\l__tl_analysis_index_int=\count135
+\l__tl_analysis_nesting_int=\count136
+\l__tl_analysis_type_int=\count137
+\l__regex_internal_a_int=\count138
+\l__regex_internal_b_int=\count139
+\l__regex_internal_c_int=\count140
+\l__regex_balance_int=\count141
+\l__regex_group_level_int=\count142
+\l__regex_mode_int=\count143
+\c__regex_cs_in_class_mode_int=\count144
+\c__regex_cs_mode_int=\count145
+\l__regex_catcodes_int=\count146
+\l__regex_default_catcodes_int=\count147
+\c__regex_catcode_L_int=\count148
+\c__regex_catcode_O_int=\count149
+\c__regex_catcode_A_int=\count150
+\c__regex_all_catcodes_int=\count151
+\l__regex_show_lines_int=\count152
+\l__regex_min_state_int=\count153
+\l__regex_max_state_int=\count154
+\l__regex_left_state_int=\count155
+\l__regex_right_state_int=\count156
+\l__regex_capturing_group_int=\count157
+\l__regex_min_pos_int=\count158
+\l__regex_max_pos_int=\count159
+\l__regex_curr_pos_int=\count160
+\l__regex_start_pos_int=\count161
+\l__regex_success_pos_int=\count162
+\l__regex_curr_char_int=\count163
+\l__regex_curr_catcode_int=\count164
+\l__regex_last_char_int=\count165
+\l__regex_case_changed_char_int=\count166
+\l__regex_curr_state_int=\count167
+\l__regex_step_int=\count168
+\l__regex_min_active_int=\count169
+\l__regex_max_active_int=\count170
+\l__regex_replacement_csnames_int=\count171
+\l__regex_match_count_int=\count172
+\l__regex_min_submatch_int=\count173
+\l__regex_submatch_int=\count174
+\l__regex_zeroth_submatch_int=\count175
+\g__regex_trace_regex_int=\count176
+\c_empty_box=\box30
+\l_tmpa_box=\box31
+\l_tmpb_box=\box32
+\g_tmpa_box=\box33
+\g_tmpb_box=\box34
+\l__box_top_dim=\dimen123
+\l__box_bottom_dim=\dimen124
+\l__box_left_dim=\dimen125
+\l__box_right_dim=\dimen126
+\l__box_top_new_dim=\dimen127
+\l__box_bottom_new_dim=\dimen128
+\l__box_left_new_dim=\dimen129
+\l__box_right_new_dim=\dimen130
+\l__box_internal_box=\box35
+\l__coffin_internal_box=\box36
+\l__coffin_internal_dim=\dimen131
+\l__coffin_offset_x_dim=\dimen132
+\l__coffin_offset_y_dim=\dimen133
+\l__coffin_x_dim=\dimen134
+\l__coffin_y_dim=\dimen135
+\l__coffin_x_prime_dim=\dimen136
+\l__coffin_y_prime_dim=\dimen137
+\c_empty_coffin=\box37
+\l__coffin_aligned_coffin=\box38
+\l__coffin_aligned_internal_coffin=\box39
+\l_tmpa_coffin=\box40
+\l_tmpb_coffin=\box41
+\g_tmpa_coffin=\box42
+\g_tmpb_coffin=\box43
+\l__coffin_bounding_shift_dim=\dimen138
+\l__coffin_left_corner_dim=\dimen139
+\l__coffin_right_corner_dim=\dimen140
+\l__coffin_bottom_corner_dim=\dimen141
+\l__coffin_top_corner_dim=\dimen142
+\l__coffin_scaled_total_height_dim=\dimen143
+\l__coffin_scaled_width_dim=\dimen144
+\c__coffin_empty_coffin=\box44
+\l__coffin_display_coffin=\box45
+\l__coffin_display_coord_coffin=\box46
+\l__coffin_display_pole_coffin=\box47
+\l__coffin_display_offset_dim=\dimen145
+\l__coffin_display_x_dim=\dimen146
+\l__coffin_display_y_dim=\dimen147
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count177
+\l__seq_internal_b_int=\count178
+\c__deprecation_minus_one=\count179
+) (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count180
+))
+Package: unicode-math 2019/03/04 v0.8o Unicode maths in XeLaTeX and LuaLaTeX
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-mat
+h-luatex.sty
+Package: unicode-math-luatex 2019/03/04 v0.8o Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse
+.sty
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count181
+\g__xparse_grabber_int=\count182
+\l__xparse_m_args_int=\count183
+\l__xparse_v_nesting_int=\count184
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3ke
+ys2e.sty
+Package: l3keys2e 2019-03-05 LaTeX2e option processing using LaTeX3 keys
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2019/03/15 2.7c Font selection for XeLaTeX and LuaLaTeX
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-luatex
+.sty
+Package: fontspec-luatex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count185
+\l__fontspec_language_int=\count186
+\l__fontspec_strnum_int=\count187
+\l__fontspec_tmp_int=\count188
+\l__fontspec_tmpa_int=\count189
+\l__fontspec_tmpb_int=\count190
+\l__fontspec_tmpc_int=\count191
+\l__fontspec_em_int=\count192
+\l__fontspec_emdef_int=\count193
+\l__fontspec_strong_int=\count194
+\l__fontspec_strongdef_int=\count195
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+ (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3783.
+LaTeX Info: Redefining \slshape on input line 3788.
+LaTeX Info: Redefining \scshape on input line 3793.
+LaTeX Info: Redefining \upshape on input line 3798.
+LaTeX Info: Redefining \em on input line 3828.
+LaTeX Info: Redefining \emph on input line 3853.
+)) (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/lualatex/lualatex-math/lualate
+x-math.sty
+Package: lualatex-math 2019/01/21 v1.8 Patches for mathematics typesetting with 
+LuaLaTeX
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
+h LuaLaTeX)
+\g__um_fam_int=\count196
+\g__um_fonts_used_int=\count197
+\l__um_primecount_int=\count198
+\g__um_primekern_muskip=\muskip16
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-mat
+h-table.tex))) (./fontawesome.sty
+Package: fontawesome 2015/11/04 v4.4.0 font awesome icons
+luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: "File not fou
+nd: fonts/FontAwesome.".
+luaotfload | aux : font no 30 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 30
+luaotfload | aux : font no 30 (nil) defines no feature for script dflt
+luaotfload | aux : no font with id 30
+
+Package fontspec Info: Font family 'FontAwesome(0)' created for font
+(fontspec)             'FontAwesome' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/FontAwesome]:mode=node;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+)))))
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperr
+ef.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generi
+c.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/scripts/oberdiek/oberdiek.luatex.lu
+a)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks21
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count199
+\Hy@pagecounter=\count266
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count267
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count268
+ (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen152
+\Fld@menulength=\count269
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count270
+\c@Item=\count271
+\c@Hfootnote=\count272
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2018/11/30 v6.88e Hyperref driver for luaTeX
+\Fld@listcount=\count273
+\c@bookmark@seq@number=\count274
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.
+sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
+)
+\Hy@SectionHShift=\skip78
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 94.
+\c@colorCounter=\count275
+luaotfload | aux : font no 32 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 32
+
+Package fontspec Info: Font family 'Roboto(0)' created for font 'Roboto' with
+(fontspec)             options
+(fontspec)             [Path=fonts/,UprightFont=*-Regular,ItalicFont=*-Italic,Bo
+ldFont=*-Bold,BoldItalicFont=*-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Regular]:mode=node;script=DFLT;language
+=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Regular]:mode=node;script=DFLT;language
+=DFLT;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Bold]:mode=node;script=DFLT;language=DF
+LT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Bold]:mode=node;script=DFLT;language=DF
+LT;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Italic]:mode=node;script=DFLT;language=
+DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Italic]:mode=node;script=DFLT;language=
+DFLT;+smcp;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-BoldItalic]:mode=node;script=DFLT;langu
+age=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-BoldItalic]:mode=node;script=DFLT;langu
+age=DFLT;+smcp;"
+
+luaotfload | aux : font no 37 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 37
+
+Package fontspec Info: Font family 'Roboto(1)' created for font 'Roboto' with
+(fontspec)             options
+(fontspec)             [Path=fonts/,UprightFont=*-Thin,ItalicFont=*-ThinItalic,B
+oldFont=*-Medium,BoldItalicFont=*-MediumItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Thin]:mode=node;script=DFLT;language=DF
+LT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Thin]:mode=node;script=DFLT;language=DF
+LT;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Medium]:mode=node;script=DFLT;language=
+DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-Medium]:mode=node;script=DFLT;language=
+DFLT;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-ThinItalic]:mode=node;script=DFLT;langu
+age=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-ThinItalic]:mode=node;script=DFLT;langu
+age=DFLT;+smcp;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-MediumItalic]:mode=node;script=DFLT;lan
+guage=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"[fonts/Roboto-MediumItalic]:mode=node;script=DFLT;lan
+guage=DFLT;+smcp;"
+
+luaotfload | aux : font no 44 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 44
+
+Package fontspec Info: Font family 'SourceSansPro(0)' created for font
+(fontspec)             'SourceSansPro' with options
+(fontspec)             [Path=fonts/,UprightFont=*-Regular,ItalicFont=*-It,BoldFo
+nt=*-Bold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Regular]:mode=node;script=latn;l
+anguage=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Regular]:mode=node;script=latn;l
+anguage=DFLT;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Bold]:mode=node;script=latn;lang
+uage=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Bold]:mode=node;script=latn;lang
+uage=DFLT;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-It]:mode=node;script=latn;langua
+ge=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+
+luaotfload | aux : font no 44 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 44
+luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 45
+
+Package fontspec Info: Font family 'SourceSansPro(1)' created for font
+(fontspec)             'SourceSansPro' with options
+(fontspec)             [Path=fonts/,UprightFont=*-Regular,ItalicFont=*-It,BoldFo
+nt=*-Bold,BoldItalicFont=*-BoldIt].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Regular]:mode=node;script=latn;l
+anguage=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Regular]:mode=node;script=latn;l
+anguage=DFLT;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Bold]:mode=node;script=latn;lang
+uage=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Bold]:mode=node;script=latn;lang
+uage=DFLT;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-It]:mode=node;script=latn;langua
+ge=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-BoldIt]:mode=node;script=latn;la
+nguage=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+luaotfload | aux : font no 49 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 49
+luaotfload | aux : font no 50 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 50
+
+Package fontspec Info: Font family 'SourceSansPro(2)' created for font
+(fontspec)             'SourceSansPro' with options
+(fontspec)             [Path=fonts/,UprightFont=*-Light,ItalicFont=*-LightIt,Bol
+dFont=*-Semibold,BoldItalicFont=*-SemiboldIt].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Light]:mode=node;script=latn;lan
+guage=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Light]:mode=node;script=latn;lan
+guage=DFLT;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Semibold]:mode=node;script=latn;
+language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-Semibold]:mode=node;script=latn;
+language=DFLT;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-LightIt]:mode=node;script=latn;l
+anguage=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"[fonts/SourceSansPro-SemiboldIt]:mode=node;script=lat
+n;language=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+) (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/04/03 3.29 The Babel package
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel/luababel.def
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 114.
+\l@nohyphenation=\language3
+\l@german-x-2019-04-04=\language4
+\l@ngerman-x-2019-04-04=\language5
+\l@afrikaans=\language6
+\l@ancientgreek=\language7
+\l@ibycus=\language8
+\l@arabic=\language9
+\l@armenian=\language10
+\l@basque=\language11
+\l@belarusian=\language12
+\l@bulgarian=\language13
+\l@catalan=\language14
+\l@churchslavonic=\language15
+\l@coptic=\language16
+\l@croatian=\language17
+\l@czech=\language18
+\l@danish=\language19
+\l@dutch=\language20
+\l@ukenglish=\language21
+\l@usenglishmax=\language22
+\l@esperanto=\language23
+\l@estonian=\language24
+\l@ethiopic=\language25
+\l@farsi=\language26
+\l@finnish=\language27
+\l@french=\language28
+\l@friulan=\language29
+\l@galician=\language30
+\l@georgian=\language31
+\l@german=\language32
+\l@ngerman=\language33
+\l@swissgerman=\language34
+\l@monogreek=\language35
+\l@greek=\language36
+\l@hungarian=\language37
+\l@icelandic=\language38
+\l@assamese=\language39
+\l@bengali=\language40
+\l@gujarati=\language41
+\l@hindi=\language42
+\l@kannada=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@oriya=\language46
+\l@panjabi=\language47
+\l@pali=\language48
+\l@tamil=\language49
+\l@telugu=\language50
+\l@indonesian=\language51
+\l@interlingua=\language52
+\l@irish=\language53
+\l@italian=\language54
+\l@kurmanji=\language55
+\l@latin=\language56
+\l@classiclatin=\language57
+\l@liturgicallatin=\language58
+\l@latvian=\language59
+\l@lithuanian=\language60
+\l@mongolian=\language61
+\l@mongolianlmc=\language62
+\l@bokmal=\language63
+\l@nynorsk=\language64
+\l@occitan=\language65
+\l@piedmontese=\language66
+\l@polish=\language67
+\l@portuguese=\language68
+\l@romanian=\language69
+\l@romansh=\language70
+\l@russian=\language71
+\l@sanskrit=\language72
+\l@serbian=\language73
+\l@serbianc=\language74
+\l@slovak=\language75
+\l@slovenian=\language76
+\l@spanish=\language77
+\l@swedish=\language78
+\l@thai=\language79
+\l@turkish=\language80
+\l@turkmen=\language81
+\l@ukrainian=\language82
+\l@uppersorbian=\language83
+\l@welsh=\language84
+)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel-french/francais.
+ldf
+Language: francais 2019/03/30 v3.5e French support from the babel system
+
+
+Package francais.ldf Warning: Option `francais' for Babel is *deprecated*,
+(francais.ldf)                it might be removed sooner or later. Please
+(francais.ldf)                use `french' instead; reported on input line 31.
+
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel-french/french.ld
+f
+Language: french 2019/03/30 v3.5e French support from the babel system
+ (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/04/03 3.29 Babel common definitions
+\babel@savecnt=\count276
+\U@D=\dimen155
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/babel/luababel.def))
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count277
+\FB@spacing=\attribute5
+\FB@addDPspace=\attribute6
+\FB@addGUILspace=\attribute7
+\FB@ucsNBSP=\attribute8
+\FB@dialect=\attribute9
+Package french.ldf Info: No need for active punctuation characters
+(french.ldf)             with this version of LuaTeX!
+(french.ldf)             reported on input line 249.
+\FBguill@level=\count278
+\FBold@everypar=\toks22
+\FB@Mht=\dimen156
+LaTeX Info: Redefining \degres on input line 777.
+\mc@charclass=\count279
+\mc@charfam=\count280
+\mc@charslot=\count281
+\std@mcc=\count282
+\dec@mcc=\count283
+Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
+\c@FBcaption@count=\count284
+\listindentFB=\dimen157
+\descindentFB=\dimen158
+\labelindentFB=\dimen159
+\labelwidthFB=\dimen160
+\leftmarginFB=\dimen161
+\parindentFFN=\dimen162
+\FBfnindent=\dimen163
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/hyph-utf8/loadhyph/loa
+dhyph-fr.tex UTF-8 French hyphenation patterns
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/hyph-utf8/patterns/tex
+/hyph-fr.tex)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/hyph-utf8/patterns/quo
+te/hyph-quote-fr.tex)))))
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+
+Package lualatex-math Info: I'm going to patch macro \frac.
+
+
+(./resume.aux)
+\openout1 = resume.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 56.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(7.11317pt, 809.48093pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=809.48093pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-102.15681pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen164
+\scratchbox=\box48
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen165
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 56.
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCaps
+Font={},Script=Math,FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;language
+=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;language
+=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCaps
+Font={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=latinmod
+ern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathS
+criptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.3075->"[latinmodern-math.otf]:mode=base;script=math;la
+nguage=DFLT;"<6.57-9.3075>"[latinmodern-math.otf]:mode=base;script=math;language
+=DFLT;+ssty=0;"<-6.57>"[latinmodern-math.otf]:mode=base;script=math;language=DFL
+T;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;language
+=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 56.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input 
+line 56.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 56.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/bx/n on inpu
+t line 56.
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCaps
+Font={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=latinmod
+ern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathS
+criptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontA
+djustment={\fontdimen
+(fontspec)             8\font =7.41315pt\relax \fontdimen 9\font
+(fontspec)             =4.31429pt\relax \fontdimen 10\font =4.86179pt\relax
+(fontspec)             \fontdimen 11\font =7.51169pt\relax \fontdimen 12\font
+(fontspec)             =3.77774pt\relax \fontdimen 13\font =3.97484pt\relax
+(fontspec)             \fontdimen 14\font =3.97484pt\relax \fontdimen 15\font
+(fontspec)             =3.16454pt\relax \fontdimen 16\font =2.70464pt\relax
+(fontspec)             \fontdimen 17\font =2.70464pt\relax \fontdimen 18\font
+(fontspec)             =2.73749pt\relax \fontdimen 19\font =2.18999pt\relax
+(fontspec)             \fontdimen 22\font =2.73749pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.3075->s*[1.0001]"[latinmodern-math.otf]:mode=base;scri
+pt=math;language=DFLT;"<6.57-9.3075>s*[1.0001]"[latinmodern-math.otf]:mode=base;
+script=math;language=DFLT;+ssty=0;"<-6.57>s*[1.0001]"[latinmodern-math.otf]:mode
+=base;script=math;language=DFLT;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =7.41315pt\relax \fontdimen 9\font =4.31429pt\relax
+(fontspec)             \fontdimen 10\font =4.86179pt\relax \fontdimen 11\font
+(fontspec)             =7.51169pt\relax \fontdimen 12\font =3.77774pt\relax
+(fontspec)             \fontdimen 13\font =3.97484pt\relax \fontdimen 14\font
+(fontspec)             =3.97484pt\relax \fontdimen 15\font =3.16454pt\relax
+(fontspec)             \fontdimen 16\font =2.70464pt\relax \fontdimen 17\font
+(fontspec)             =2.70464pt\relax \fontdimen 18\font =2.73749pt\relax
+(fontspec)             \fontdimen 19\font =2.18999pt\relax \fontdimen 22\font
+(fontspec)             =2.73749pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1.0001]"[latinmodern-math.otf]:mode=base;script=mat
+h;language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =7.41315pt\relax \fontdimen 9\font =4.31429pt\relax
+(fontspec)             \fontdimen 10\font =4.86179pt\relax \fontdimen 11\font
+(fontspec)             =7.51169pt\relax \fontdimen 12\font =3.77774pt\relax
+(fontspec)             \fontdimen 13\font =3.97484pt\relax \fontdimen 14\font
+(fontspec)             =3.97484pt\relax \fontdimen 15\font =3.16454pt\relax
+(fontspec)             \fontdimen 16\font =2.70464pt\relax \fontdimen 17\font
+(fontspec)             =2.70464pt\relax \fontdimen 18\font =2.73749pt\relax
+(fontspec)             \fontdimen 19\font =2.18999pt\relax \fontdimen 22\font
+(fontspec)             =2.73749pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 56.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input
+ line 56.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 56.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/bx/n on inpu
+t line 56.
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCaps
+Font={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=latinmod
+ern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathS
+criptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontA
+djustment={\fontdimen
+(fontspec)             8\font =0.43799pt\relax \fontdimen 9\font
+(fontspec)             =2.18999pt\relax \fontdimen 10\font =1.82864pt\relax
+(fontspec)             \fontdimen 11\font =1.21544pt\relax \fontdimen 12\font
+(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.3075->s*[0.9999]"[latinmodern-math.otf]:mode=base;scri
+pt=math;language=DFLT;"<6.57-9.3075>s*[0.9999]"[latinmodern-math.otf]:mode=base;
+script=math;language=DFLT;+ssty=0;"<-6.57>s*[0.9999]"[latinmodern-math.otf]:mode
+=base;script=math;language=DFLT;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =0.43799pt\relax \fontdimen 9\font =2.18999pt\relax
+(fontspec)             \fontdimen 10\font =1.82864pt\relax \fontdimen 11\font
+(fontspec)             =1.21544pt\relax \fontdimen 12\font =6.56999pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999]"[latinmodern-math.otf]:mode=base;script=mat
+h;language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =0.43799pt\relax \fontdimen 9\font =2.18999pt\relax
+(fontspec)             \fontdimen 10\font =1.82864pt\relax \fontdimen 11\font
+(fontspec)             =1.21544pt\relax \fontdimen 12\font =6.56999pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 56
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input
+ line 56.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 56.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/bx/n on inpu
+t line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.6658pt on input line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.47559pt on input line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.66417pt on input line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.47441pt on input line 56.
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 56.
+ (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestrin
+g.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count291
+)
+LaTeX Info: Redefining \ref on input line 56.
+LaTeX Info: Redefining \pageref on input line 56.
+LaTeX Info: Redefining \nameref on input line 56.
+\@outlinefile=\write3
+
+\openout3 = resume.out
+LaTeX Info: Redefining \dots on input line 56.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 56.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 56.
+LaTeX Info: Redefining \up on input line 56.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00085pt on input line 59.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 59.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 59.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 59.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 59.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 59.
+ (./resume/Education.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <10> not avail
+able
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input
+ line 8.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not availa
+ble
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input
+ line 8.
+) (./resume/TA.tex) (./resume/Skills.tex
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 11.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 11.
+
+Underfull \hbox (badness 10000) in alignment at lines 11--11
+[][]
+ []
+
+) (./resume/Interest.tex) (./resume/Languages.tex
+Underfull \hbox (badness 10000) in alignment at lines 8--8
+[][]
+ []
+
+) (./resume/Awards.tex) (./resume/Project.tex [1
+
+{d:/apps/TexLive2020/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./resume/References.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
+
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
+ (./resume.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 26384 strings out of 494300
+ 100000,794899 words of node,token memory allocated
+ 25288 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 30 glue, 3 kern, 1 penalty, 3307 glyph, 602 attribu
+te, 76 glue_spec, 102 attribute_list, 1 write nodes
+   avail lists: 1:2,2:3486,3:193,4:152,5:470,6:89,7:2829,8:17,9:603,10:18,11:267
+
+ 29525 multiletter control sequences out of 65536+600000
+ 102 fonts using 24772315 bytes
+ 56i,11n,109p,823b,506s stack positions out of 5000i,500n,10000p,200000b,100000s
+<./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
+SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
+o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
+Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
+Output written on resume.pdf (2 pages, 52926 bytes).
+
+PDF statistics: 102 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
