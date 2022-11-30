@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.10.17)  24 NOV 2022 20:20
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.10.17)  30 NOV 2022 16:21
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.136 seconds
+luaotfload | main : initialization completed in 0.135 seconds
 (./awesome-cv.cls
 Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
 (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -1256,9 +1256,6 @@ LaTeX Info: Redefining \nameref on input line 56.
 \@outlinefile=\write3
 
 \openout3 = resume.out
-
-! I can't write on file `resume.pdf'.
-Please type another file name for output: resume.pdf
 LaTeX Info: Redefining \dots on input line 56.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
@@ -1279,7 +1276,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 59.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 59.
-(./resume/Education.tex
+ (./resume/Education.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <10> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input
@@ -1318,24 +1315,24 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26396 strings out of 494300
+ 26395 strings out of 494300
  100000,794899 words of node,token memory allocated
- 26009 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 31 glue, 3 kern, 1 penalty, 3401 glyph, 626 attribu
-te, 76 glue_spec, 106 attribute_list, 1 write nodes
-   avail lists: 1:2,2:3829,3:209,4:166,5:471,6:98,7:3035,8:17,9:652,10:18,11:267
-
- 29525 multiletter control sequences out of 65536+600000
- 102 fonts using 24772407 bytes
+ 26093 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 31 glue, 3 kern, 1 penalty, 3411 glyph, 632 attribu
+te, 76 glue_spec, 107 attribute_list, 1 write nodes
+   avail lists: 1:2,2:3864,3:210,4:170,5:471,6:100,7:3051,8:17,9:654,10:18,11:26
+7
+ 29526 multiletter control sequences out of 65536+600000
+ 102 fonts using 24772223 bytes
  56i,11n,109p,823b,508s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 53264 bytes).
+Output written on resume.pdf (2 pages, 53475 bytes).
 
-PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+PDF statistics: 104 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
