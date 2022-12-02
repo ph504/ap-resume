@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.10.17)  30 NOV 2022 16:21
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.10.17)  2 DEC 2022 12:29
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.135 seconds
+luaotfload | main : initialization completed in 0.621 seconds
 (./awesome-cv.cls
 Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
 (d:/apps/TexLive2020/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -1315,21 +1315,21 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26395 strings out of 494300
+ 26397 strings out of 494300
  100000,794899 words of node,token memory allocated
- 26093 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 31 glue, 3 kern, 1 penalty, 3411 glyph, 632 attribu
+ 26240 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 31 glue, 3 kern, 1 penalty, 3432 glyph, 632 attribu
 te, 76 glue_spec, 107 attribute_list, 1 write nodes
-   avail lists: 1:2,2:3864,3:210,4:170,5:471,6:100,7:3051,8:17,9:654,10:18,11:26
-7
- 29526 multiletter control sequences out of 65536+600000
- 102 fonts using 24772223 bytes
- 56i,11n,109p,823b,508s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:3864,3:210,4:170,5:467,6:100,7:3051,8:17,9:654,10:18,11:26
+6
+ 29527 multiletter control sequences out of 65536+600000
+ 103 fonts using 24864427 bytes
+ 56i,12n,109p,823b,508s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 53475 bytes).
+Output written on resume.pdf (2 pages, 53559 bytes).
 
 PDF statistics: 104 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
