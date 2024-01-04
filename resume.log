@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.8.28)  4 JAN 2024 18:29
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.8.28)  4 JAN 2024 19:12
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1023,30 +1023,30 @@ Underfull \hbox (badness 10000) in alignment at lines 8--8
 ) (./resume/TA.tex [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-(./resume/Project.tex) [2] (./resume.aux)
+(./resume/Publications.tex) (./resume/Project.tex) [2] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19842 strings out of 477805
+ 19857 strings out of 477805
  125086,953878 words of node,token memory allocated
  628 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 1:3,2:1936,3:501,4:382,5:1517,6:245,7:11546,8:38,9:1542,10:24,11
-:848
- 39872 multiletter control sequences out of 65536+600000
- 94 fonts using 29822311 bytes
+   avail lists: 1:3,2:1993,3:501,4:400,5:1529,6:245,7:11570,8:38,9:1552,10:24,11
+:851
+ 39874 multiletter control sequences out of 65536+600000
+ 94 fonts using 29822575 bytes
  113i,12n,115p,720b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 54568 bytes).
+Output written on resume.pdf (2 pages, 55126 bytes).
 
-PDF statistics: 101 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 131072)
+PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
