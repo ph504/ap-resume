@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1711945432.00044 "c:/Users/Aresp/Documents/ap-resume/resume.tex" "resume.pdf" "resume" 1711945432.65342 2
+["pdflatex"] 1711953142.0373 "c:/Users/Aresp/Documents/ap-resume/resume.tex" "resume.pdf" "resume" 1711953142.67744 2
   "awesome-cv.cls" 1711944771 24514 e69bbd7e4609114979ec9879a8e05eb9 ""
   "c:/Users/Aresp/Documents/ap-resume/resume.tex" 1711944771 2576 691b1cdddbbc5b39b3d719e3ac94773d ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1711363157 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -37,7 +37,7 @@
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711368308 8222553 972911eaba49a9b479c5f8fe2ec9bd43 ""
   "c:/texlive/2024/texmf.cnf" 1711368163 713 e69b156964470283e0530f5060668171 ""
   "fontawesome.sty" 1711944771 84670 9483e2bceaac1a65b6f35ba47f728141 ""
-  "resume.aux" 1711945431 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.aux" 1711953142 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "resume.tex" 1711944771 2576 691b1cdddbbc5b39b3d719e3ac94773d ""
   (generated)
   "resume.aux"
