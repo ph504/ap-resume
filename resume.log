@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  21 SEP 2024 13:21
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  21 SEP 2024 18:35
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -874,31 +874,31 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write3
 
 \openout3 = resume.out
- (./resume/Experience.tex
+ (./resume/Education.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <10> not avai
 lable
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 9.
+t line 8.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 9.
+t line 8.
 )
-(./resume/Education.tex) (./resume/Awards.tex) (./resume/Skills.tex
+(./resume/Experience.tex) (./resume/Awards.tex) (./resume/Skills.tex
 Underfull \hbox (badness 10000) in alignment at lines 12--12
 [][]
  []
 
-[1
-
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./resume/Languages.tex
+) (./resume/Languages.tex
 Underfull \hbox (badness 10000) in alignment at lines 8--8
 [][]
  []
 
-) (./resume/TA.tex) (./resume/Publications.tex) (./resume/Project.tex [2])
-[3] (./resume.aux)
+) [1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./resume/Publications.tex) (./resume/TA.tex) (./resume/Project.tex [2])
+(./resume/References.tex) [3] (./resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -908,25 +908,24 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19465 strings out of 476435
- 125086,1977958 words of node,token memory allocated
- 628 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
- 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:3045,3:560,4:434,5:1292,6:264,7:10485,8:1,9:1684,10:24,11:
-697
- 41189 multiletter control sequences out of 65536+600000
- 93 fonts using 29682367 bytes
- 113i,11n,105p,720b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><./fo
-nts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/Sourc
-eSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bol
-d.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Itali
-c.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (3 pages, 60564 bytes).
+ 19487 strings out of 476435
+ 156364,1977958 words of node,token memory allocated
+ 624 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 80 glue_spec,
+ 6 attribute_list, 1 write nodes
+   avail lists: 1:1,2:2847,3:762,4:597,5:1647,6:292,7:12529,8:1,9:2069,10:24,11:
+881
+ 41198 multiletter control sequences out of 65536+600000
+ 89 fonts using 27313195 bytes
+ 113i,11n,105p,720b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
+SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
+o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
+Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
+Output written on resume.pdf (3 pages, 58674 bytes).
 
-PDF statistics: 118 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 131072)
+PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
