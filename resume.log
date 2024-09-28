@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  28 SEP 2024 17:50
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  28 SEP 2024 18:21
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -913,19 +913,19 @@ Here is how much of LuaTeX's memory you used:
  624 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 80 glue_spec,
  6 attribute_list, 1 write nodes
-   avail lists: 1:2,2:2619,3:655,4:541,5:1921,6:274,7:13756,8:1,9:1887,10:24,11:
+   avail lists: 1:2,2:2513,3:627,4:521,5:1921,6:274,7:13756,8:1,9:1803,10:24,11:
 1082
  41174 multiletter control sequences out of 65536+600000
- 77 fonts using 20205775 bytes
+ 77 fonts using 20205935 bytes
  113i,11n,105p,551b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (3 pages, 56365 bytes).
+Output written on resume.pdf (3 pages, 56611 bytes).
 
-PDF statistics: 109 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
