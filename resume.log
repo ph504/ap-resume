@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  30 SEP 2024 12:47
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  30 SEP 2024 13:09
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -898,12 +898,19 @@ Underfull \hbox (badness 10000) in alignment at lines 8--8
  []
 
 ) (./resume/Publications.tex) (./resume/HobbyProjects.tex
-Underfull \hbox (badness 10000) in alignment at lines 25--25
+
+Package hyperref Warning: Suppressing link with empty target on input line 27.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 27.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 27--27
 [][]
  []
 
 ) (./resume/SchoolProjects.tex
-Underfull \hbox (badness 10000) in alignment at lines 40--40
+Underfull \hbox (badness 10000) in alignment at lines 42--42
 [][]
  []
 
@@ -917,21 +924,21 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19465 strings out of 476435
+ 19478 strings out of 476435
  156364,1977958 words of node,token memory allocated
- 624 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 80 glue_spec,
- 6 attribute_list, 1 write nodes
-   avail lists: 1:2,2:1822,3:617,4:466,5:1921,6:274,7:13756,8:1,9:1708,10:24,11:
+ 628 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
+ 7 attribute_list, 1 write nodes
+   avail lists: 1:2,2:1916,3:617,4:466,5:1921,6:274,7:13756,8:1,9:1708,10:24,11:
 1082
- 41177 multiletter control sequences out of 65536+600000
- 77 fonts using 20205855 bytes
- 113i,11n,105p,551b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 41190 multiletter control sequences out of 65536+600000
+ 89 fonts using 27313195 bytes
+ 113i,14n,105p,551b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 55979 bytes).
+Output written on resume.pdf (2 pages, 56048 bytes).
 
 PDF statistics: 114 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
