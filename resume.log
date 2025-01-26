@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  26 JAN 2025 16:03
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  26 JAN 2025 18:51
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -908,6 +908,11 @@ Underfull \hbox (badness 10000) in alignment at lines 38--38
  []
 
 ) (./resume/SchoolProjects.tex
+Overfull \hbox (51.40862pt too wide) in paragraph at lines 66--66
+[][] 
+ []
+
+
 Underfull \hbox (badness 10000) in alignment at lines 66--66
 [][]
  []
@@ -927,19 +932,19 @@ Here is how much of LuaTeX's memory you used:
  628 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 1:2,2:2111,3:634,4:478,5:2153,6:275,7:15009,8:1,9:1749,10:24,11:
+   avail lists: 1:2,2:2099,3:634,4:478,5:2153,6:275,7:15009,8:1,9:1749,10:24,11:
 1318
  41195 multiletter control sequences out of 65536+600000
- 91 fonts using 27935443 bytes
+ 91 fonts using 27935291 bytes
  113i,14n,105p,551b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (4 pages, 59362 bytes).
+Output written on resume.pdf (4 pages, 60004 bytes).
 
-PDF statistics: 128 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
