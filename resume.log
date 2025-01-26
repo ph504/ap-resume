@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  26 JAN 2025 19:06
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  26 JAN 2025 19:09
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -936,7 +936,7 @@ Here is how much of LuaTeX's memory you used:
 SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
 o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
 Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 57925 bytes).
+Output written on resume.pdf (2 pages, 57921 bytes).
 
 PDF statistics: 117 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
