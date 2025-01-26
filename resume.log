@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  25 JAN 2025 20:09
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  26 JAN 2025 11:50
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -903,50 +903,38 @@ Underfull \hbox (badness 10000) in alignment at lines 8--8
  []
 
 ) (./resume/Publications.tex) (./resume/HobbyProjects.tex
-
-Package hyperref Warning: Suppressing link with empty target on input line 27.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 27.
-
-
-Underfull \hbox (badness 10000) in alignment at lines 27--27
+Underfull \hbox (badness 10000) in alignment at lines 38--38
 [][]
  []
 
 ) (./resume/SchoolProjects.tex
-Underfull \hbox (badness 10000) in alignment at lines 42--42
-[][]
- []
+Runaway argument?
+{ \begin {tabular}{l l} \href {https://github.com/ph504/avl-blockchai\ETC.
+! Paragraph ended before \skillentry was complete.
+<to be read again> 
+\par 
+l.17 
+   
+? 
+! Emergency stop.
+<to be read again> 
+\par 
+l.17 
+   
+End of file on the terminal!
 
-) (./resume/References.tex) [3] (./resume.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
- ***********
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-)
+
 
 Here is how much of LuaTeX's memory you used:
- 19497 strings out of 476435
- 156364,1977958 words of node,token memory allocated
- 628 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
- 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:2000,3:634,4:478,5:2141,6:275,7:14819,8:1,9:1749,10:24,11:
-1304
- 41195 multiletter control sequences out of 65536+600000
- 91 fonts using 27935291 bytes
+ 19466 strings out of 476435
+ 156364,1977958 words of node,token memory allocated 38492 words of node memory still in use:
+   300 hlist, 62 vlist, 143 rule, 223 disc, 68 local_par, 1 dir, 26 math, 1110 g
+lue, 458 kern, 178 penalty, 2274 glyph, 772 attribute, 90 glue_spec, 772 attribu
+te_list, 2 pdf_start_link, 2 pdf_end_link, 7 pdf_dest, 2 pdf_action, 171 pdf_col
+orstack nodes
+   avail lists: 1:1,2:185,3:455,4:307,5:1688,6:205,7:11602,8:1,9:1245,10:24,11:1
+095
+ 41190 multiletter control sequences out of 65536+600000
+ 91 fonts using 27935443 bytes
  113i,14n,105p,551b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
-SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
-o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
-Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (3 pages, 57729 bytes).
-
-PDF statistics: 119 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+!  ==> Fatal error occurred, no output PDF file produced!
