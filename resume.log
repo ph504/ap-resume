@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  10 OCT 2025 13:47
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  10 OCT 2025 16:24
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -888,12 +888,12 @@ t line 8.
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume/Award
 s.tex) (./resume/Skills.tex
-Underfull \hbox (badness 10000) in alignment at lines 12--12
+Underfull \hbox (badness 10000) in alignment at lines 13--13
 [][]
  []
 
 ) (./resume/Languages.tex
-Underfull \hbox (badness 10000) in alignment at lines 8--8
+Underfull \hbox (badness 10000) in alignment at lines 13--13
 [][]
  []
 
@@ -923,21 +923,21 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  19482 strings out of 476435
- 156366,1977958 words of node,token memory allocated
+ 156364,1977958 words of node,token memory allocated
  628 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1852,3:660,4:436,5:2215,6:238,7:14715,8:1,9:1396,10:21,11:
-1163
+   avail lists: 1:1,2:1936,3:660,4:436,5:2217,6:238,7:14721,8:1,9:1396,10:21,11:
+1157
  41194 multiletter control sequences out of 65536+600000
  90 fonts using 27445035 bytes
- 113i,14n,105p,551b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,14n,105p,551b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Light.otf><c:/texlive
 /2024/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><./fonts/SourceSa
 nsPro-Regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold
 .otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic
 .ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 59417 bytes).
+Output written on resume.pdf (2 pages, 59105 bytes).
 
 PDF statistics: 124 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
