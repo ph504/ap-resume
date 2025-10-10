@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1760014916.54597 "c:/APH508/ap-resume/resume.tex" "resume.pdf" "resume" 1760014917.14418 2
+["pdflatex"] 1760073823.07298 "c:/APH508/ap-resume/resume.tex" "resume.pdf" "resume" 1760073823.66051 2
   "awesome-cv.cls" 1759984280 24514 e69bbd7e4609114979ec9879a8e05eb9 ""
-  "c:/APH508/ap-resume/resume.tex" 1760014912 2652 f41c23fae42692dafa415fd74461473d ""
+  "c:/APH508/ap-resume/resume.tex" 1760073821 2691 6b3d1c44784a0646d78f318ebf191159 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1711363157 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1711362566 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1711361786 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -37,8 +37,8 @@
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711368308 8222553 972911eaba49a9b479c5f8fe2ec9bd43 ""
   "c:/texlive/2024/texmf.cnf" 1711368163 713 e69b156964470283e0530f5060668171 ""
   "fontawesome.sty" 1759984280 84670 9483e2bceaac1a65b6f35ba47f728141 ""
-  "resume.aux" 1760014916 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "resume.tex" 1760014912 2652 f41c23fae42692dafa415fd74461473d ""
+  "resume.aux" 1760073823 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1760073821 2691 6b3d1c44784a0646d78f318ebf191159 ""
   (generated)
   "resume.aux"
   "resume.log"

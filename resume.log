@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  9 OCT 2025 10:03
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  10 OCT 2025 13:47
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -664,26 +664,26 @@ Package: import 2020/04/01  v 6.2
 ) (./resume.aux)
 \openout1 = resume.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -734,19 +734,19 @@ LaTeX Font Info:    ... okay on input line 55.
 \everyMPtoPDFconversion=\toks31
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 55.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 55.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 55.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 55.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 55.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 55.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 55.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 56.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             'latinmodern-math.otf' with options
@@ -790,15 +790,15 @@ e=dflt;mathfontdimen=xetex;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 55.
+(Font)              `operators' in the math version `normal' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 55.
+ line 56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 55.
+(Font)              `operators' in the math version `bold' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 55.
+t line 56.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             'latinmodern-math.otf' with options
@@ -824,15 +824,15 @@ e=dflt;mathfontdimen=xetex;mathfontdimen=tex2;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 55.
+(Font)              `symbols' in the math version `normal' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 55.
+t line 56.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 55.
+(Font)              `symbols' in the math version `bold' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 55.
+t line 56.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             'latinmodern-math.otf' with options
@@ -859,17 +859,18 @@ e=dflt;mathfontdimen=xetex;mathfontdimen=tex3;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 5
-5.
+6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 55.
+t line 56.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 55.
+(Font)              `largesymbols' in the math version `bold' on input line 56.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 55.
-Package hyperref Info: Link coloring OFF on input line 55.
+t line 56.
+Package hyperref Info: Link coloring OFF on input line 56.
+ (./resume.out) (./resume.out)
 \@outlinefile=\write3
 
 \openout3 = resume.out
@@ -882,11 +883,11 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 8.
-) (./resume/Experience.tex) [1
+)
+(./resume/Experience.tex) [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume/Award
-s.tex)
-(./resume/Skills.tex
+s.tex) (./resume/Skills.tex
 Underfull \hbox (badness 10000) in alignment at lines 12--12
 [][]
  []
@@ -916,36 +917,30 @@ Underfull \hbox (badness 10000) in alignment at lines 66--66
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19467 strings out of 476435
- 195462,1977958 words of node,token memory allocated
+ 19482 strings out of 476435
+ 156366,1977958 words of node,token memory allocated
  628 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1852,3:627,4:466,5:2260,6:274,7:15708,8:2,9:1720,10:24,11:
-1373
- 41189 multiletter control sequences out of 65536+600000
- 89 fonts using 27313195 bytes
- 113i,14n,105p,551b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Regular.otf><./fonts/
-SourceSansPro-Light.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPr
-o-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-
-Italic.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 57414 bytes).
+   avail lists: 1:1,2:1852,3:660,4:436,5:2215,6:238,7:14715,8:1,9:1396,10:21,11:
+1163
+ 41194 multiletter control sequences out of 65536+600000
+ 90 fonts using 27445035 bytes
+ 113i,14n,105p,551b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Light.otf><c:/texlive
+/2024/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><./fonts/SourceSa
+nsPro-Regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold
+.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic
+.ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
+Output written on resume.pdf (2 pages, 59417 bytes).
 
-PDF statistics: 117 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+PDF statistics: 124 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
