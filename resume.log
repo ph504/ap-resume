@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  11 OCT 2025 03:16
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  11 OCT 2025 15:54
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -870,6 +870,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
 t line 56.
 Package hyperref Info: Link coloring OFF on input line 56.
+ (./resume.out) (./resume.out)
 \@outlinefile=\write3
 
 \openout3 = resume.out
@@ -882,12 +883,12 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 8.
-) (./resume/Experience.tex) [1
+)
+(./resume/Experience.tex) [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume/Award
-s.tex)
-(./resume/Skills.tex
-Underfull \hbox (badness 10000) in alignment at lines 13--13
+s.tex) (./resume/Skills.tex
+Underfull \hbox (badness 10000) in alignment at lines 14--14
 [][]
  []
 
@@ -902,7 +903,7 @@ Underfull \hbox (badness 10000) in alignment at lines 38--38
  []
 
 ) (./resume/SchoolProjects.tex
-Overfull \hbox (51.40862pt too wide) in paragraph at lines 66--66
+Overfull \hbox (26.47856pt too wide) in paragraph at lines 66--66
 [][] 
  []
 
@@ -916,26 +917,19 @@ Underfull \hbox (badness 10000) in alignment at lines 66--66
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19478 strings out of 476435
+ 19489 strings out of 476435
  156364,1977958 words of node,token memory allocated
  628 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 1:2,2:1936,3:687,4:448,5:2193,6:244,7:14439,8:1,9:1420,10:21,11:
+   avail lists: 1:2,2:1908,3:687,4:448,5:2193,6:244,7:14439,8:1,9:1420,10:21,11:
 1130
- 41198 multiletter control sequences out of 65536+600000
+ 41199 multiletter control sequences out of 65536+600000
  90 fonts using 27444959 bytes
  113i,14n,105p,551b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Light.otf><c:/texlive
@@ -943,7 +937,7 @@ Here is how much of LuaTeX's memory you used:
 nsPro-Regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold
 .otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic
 .ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 58765 bytes).
+Output written on resume.pdf (2 pages, 58512 bytes).
 
 PDF statistics: 126 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
