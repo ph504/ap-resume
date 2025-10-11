@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  11 OCT 2025 18:20
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  11 OCT 2025 19:39
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -918,24 +918,24 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  19483 strings out of 476435
- 156364,1977958 words of node,token memory allocated
+ 156366,1977958 words of node,token memory allocated
  628 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 1:2,2:1640,3:665,4:469,5:1740,6:253,7:12157,8:1,9:1489,10:18,11:
-1004
+   avail lists: 1:1,2:1640,3:668,4:484,5:1728,6:253,7:12334,8:1,9:1489,10:22,11:
+962
  41194 multiletter control sequences out of 65536+600000
- 90 fonts using 27444883 bytes
- 113i,14n,105p,551b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Light.otf><c:/texlive
-/2024/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><./fonts/SourceSa
+ 90 fonts using 27444959 bytes
+ 113i,14n,105p,551b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<./fonts/SourceSansPro-Semibold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/p
+ublic/lm/lmroman9-regular.otf><./fonts/SourceSansPro-Light.otf><./fonts/SourceSa
 nsPro-Regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold
 .otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic
 .ttf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 56598 bytes).
+Output written on resume.pdf (2 pages, 57151 bytes).
 
-PDF statistics: 119 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+PDF statistics: 122 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
