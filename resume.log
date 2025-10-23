@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  23 OCT 2025 00:40
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  23 OCT 2025 01:15
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -922,10 +922,10 @@ Here is how much of LuaTeX's memory you used:
  624 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 80 glue_spec,
  6 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1846,3:632,4:418,5:1757,6:226,7:12553,8:1,9:1279,10:20,11:
+   avail lists: 1:1,2:1846,3:632,4:418,5:1757,6:226,7:12571,8:1,9:1279,10:20,11:
 911
  41185 multiletter control sequences out of 65536+600000
- 79 fonts using 20463671 bytes
+ 79 fonts using 20463751 bytes
  113i,11n,105p,551b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/p
 ublic/lm/lmmono9-regular.otf><./fonts/SourceSansPro-Light.otf><c:/texlive/2024/t
@@ -933,7 +933,7 @@ exmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><./fonts/SourceSansPro-R
 egular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold.otf><.
 /fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic.ttf><.
 /fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (2 pages, 60610 bytes).
+Output written on resume.pdf (2 pages, 60741 bytes).
 
 PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
