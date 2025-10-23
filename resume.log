@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  22 OCT 2025 23:51
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.25)  23 OCT 2025 00:40
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -884,10 +884,10 @@ able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 8.
 )
-(./resume/Experience.tex [1
+(./resume/Experience.tex) [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./resume/
-Awards.tex) (./resume/Skills.tex
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume/Award
+s.tex) (./resume/Skills.tex
 Underfull \hbox (badness 10000) in alignment at lines 25--25
 [][]
  []
@@ -898,16 +898,16 @@ Underfull \hbox (badness 10000) in alignment at lines 13--13
  []
 
 ) (./resume/Publications.tex) (./resume/HobbyProjects.tex
-Underfull \hbox (badness 10000) in alignment at lines 42--42
+Underfull \hbox (badness 10000) in alignment at lines 51--51
 [][]
  []
 
 ) (./resume/SchoolProjects.tex
-Underfull \hbox (badness 10000) in alignment at lines 66--66
+Underfull \hbox (badness 10000) in alignment at lines 79--79
 [][]
  []
 
-) (./resume/References.tex) [3] (./resume.aux)
+) (./resume/References.tex) [2] (./resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -917,26 +917,26 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19488 strings out of 476435
+ 19473 strings out of 476435
  156364,1977958 words of node,token memory allocated
- 628 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 80 glue_spec,
- 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1724,3:664,4:449,5:1816,6:238,7:12959,8:1,9:1344,10:19,11:
-934
- 41198 multiletter control sequences out of 65536+600000
- 91 fonts using 27571047 bytes
- 113i,14n,105p,551b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 624 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 80 glue_spec,
+ 6 attribute_list, 1 write nodes
+   avail lists: 1:1,2:1846,3:632,4:418,5:1757,6:226,7:12553,8:1,9:1279,10:20,11:
+911
+ 41185 multiletter control sequences out of 65536+600000
+ 79 fonts using 20463671 bytes
+ 113i,11n,105p,551b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-Semibold.otf><c:/texlive/2024/texmf-dist/fonts/opentype/p
 ublic/lm/lmmono9-regular.otf><./fonts/SourceSansPro-Light.otf><c:/texlive/2024/t
 exmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><./fonts/SourceSansPro-R
 egular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold.otf><.
 /fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic.ttf><.
 /fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (3 pages, 62376 bytes).
+Output written on resume.pdf (2 pages, 60610 bytes).
 
-PDF statistics: 120 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 131072)
+PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
